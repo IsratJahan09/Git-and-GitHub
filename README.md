@@ -1,4 +1,4 @@
-# Team Project With GIT and GitHub
+# Team Project With Git and GitHub
 
 # 👥 Coaching Guru App — Team Git Workflow Guide
 
