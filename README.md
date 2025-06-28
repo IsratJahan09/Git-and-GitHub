@@ -94,7 +94,7 @@ git pull origin development
 git merge israt
 git merge faria
 
-git push -u origin development
+git push u origin development
 ```
 
 ---
@@ -102,17 +102,17 @@ git push -u origin development
 ## 🏁 After Project Completion
 
 ```bash
-git checkout main
+git checkout main 
 git pull origin main
 git merge development
-git push -u origin main
+git push u origin main
 ```
 
 ---
 
 ## ✅ Best Practices
 
-* 🔀 Pull before pushing (`git pull origin [branch]`)
+* 🔀 Pull before pushing (`git pull origin [branch]`)       `#e.g: branch development`
 * ✅ Keep `main` clean — only merge when everything is stable
 * 🧪 Test code in `development`
 * 🧹 Use clear commit messages with emojis:
