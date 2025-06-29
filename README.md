@@ -46,7 +46,7 @@ git push -u origin development
 ## 👤 Developer Setup (Faria)
 
 ```bash
-git clone https://github.com/IsratJahan09/Coaching_Guru.git
+git clone [your project repo https link]    
 cd Coaching_Guru
 npm install
 npm run start
