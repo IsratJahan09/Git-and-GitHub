@@ -28,7 +28,7 @@ git init
 git add .
 git commit -m "initial commit"
 git branch -m main
-git remote add origin [project repo https link]
+git remote add origin https://github.com/IsratJahan09/Coaching_Guru.git                  #[project repo https link]
 git push -u origin main
 ```
 
@@ -46,7 +46,7 @@ git push -u origin development
 ## 👤 Developer Setup (Faria)
 
 ```bash
-git clone [your project repo https link]    
+git clone https://github.com/IsratJahan09/Coaching_Guru.git                               #[your project repo https link]    
 cd Coaching_Guru
 npm install
 npm run start
