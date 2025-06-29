@@ -1,4 +1,4 @@
-# Team Project With Git and GitHub
+# Team Project With Git and GitHub - Demo
 
 # 👥 Coaching Guru App — Team Git Workflow Guide
 
@@ -28,7 +28,7 @@ git init
 git add .
 git commit -m "initial commit"
 git branch -m main
-git remote add origin https://github.com/IsratJahan09/Coaching_Guru.git
+git remote add origin [project repo https link]
 git push -u origin main
 ```
 
